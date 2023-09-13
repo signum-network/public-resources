@@ -1,0 +1,56 @@
+{
+  "mainnet": [
+    {
+      "id": "nam-signa-pool",
+      "name": "Nam Signa Pool",
+      "url": "https://signapool.notallmine.net"
+    },
+    {
+      "id": "pool-signumcoin-ro",
+      "name": "Pool Signumcoin.ro",
+      "url": "https://pool.signumcoin.ro"
+    },
+    {
+      "id": "btfgpool",
+      "name": "BTFGPOOL",
+      "url": "http://pool.btfg.space"
+    },
+    {
+      "id": "vlp-pool",
+      "name": "VLP Pool",
+      "url": "http://signa.voiplanparty.com:8124"
+    },
+    {
+      "id": "tross-signa-pool",
+      "name": "Tross Signa Pool",
+      "url": "http://signumpool.de:8080"
+    },
+    {
+      "id": "e4p1k0-signum-pool",
+      "name": "E4P1K0 Signum Pool",
+      "url": "http://burst.e4pool.com"
+    },
+    {
+      "id": "open-signum-pool",
+      "name": "OpenSignumPool",
+      "url": "http://opensignumpool.ddns.net:8126"
+    },
+    {
+      "id": "rave-fusions",
+      "name": "Rave Fusions",
+      "url": "https://pool.ravefusions.com"
+    }
+  ],
+  "testnet": [
+    {
+      "id": "testnet-nam-signa-pool",
+      "name": "Nam Signa Testnet Pool",
+      "url": "https://t-pool.notallmine.net"
+    },
+    {
+      "id": "testnet-local-signa-pool",
+      "name": "Local Testnet Pool",
+      "url": "http://localhost:8000"
+    }
+  ]
+}
