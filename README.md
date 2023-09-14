@@ -27,18 +27,20 @@ You will need to create a PR in order to add your pool.
 
 - Go to `pools.json` file
 - Copy the following template and change it according to your pool data
+
+
+**Template**
 ```json
-// Template
     {
       "id": "your-pool-unique-name",
       "name": "Your Pool Unique Name",
       "url": "https://your-pool-unique-url.com"
-      // URL must be the mining URL which miners will send "deadlines"
     }
-
 ```
+> URL must be the mining URL which miners will send "deadlines"
+
+**Example**
 ```json
-// Example
     {
       "id": "my-signum-pool",
       "name": "My Signum Pool",
