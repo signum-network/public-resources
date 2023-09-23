@@ -39,7 +39,12 @@
       "id": "rave-fusions",
       "name": "Rave Fusions",
       "url": "https://pool.ravefusions.com"
-    }
+    },
+    {
+      "id": "bowserpool",
+      "name": "Bowserlab-Signum Pool",
+      "url": "https://bowserlab.ddns.net:8095"
+    },
   ],
   "testnet": [
     {
