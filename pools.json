@@ -38,7 +38,7 @@
     {
       "id": "rave-fusions",
       "name": "Rave Fusions",
-      "url": "https://pool.ravefusions.com"
+      "url": "https://pool.ravefusions.com:8125"
     },
     {
       "id": "bowserpool",
