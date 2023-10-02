@@ -2,21 +2,27 @@
   "mainnet": [
     {
       "id": "signum-europe",
-      "name": "Europe 1",
+      "name": "Europe",
       "description": "Featured Node from Europe",
       "url": "https://europe.signum.network"
     },
     {
       "id": "signum-europe-1",
-      "name": "Europe 2",
+      "name": "Europe 1",
       "description": "Another Featured Node from Europe",
       "url": "https://europe1.signum.network"
     },
     {
       "id": "signum-europe-2",
-      "name": "Europe 3",
+      "name": "Europe 2",
       "description": "Another Featured Node from Europe",
       "url": "https://europe2.signum.network"
+    },
+    {
+      "id": "signum-europe-3",
+      "name": "Europe 3",
+      "description": "Another Featured Node from Europe",
+      "url": "https://europe3.signum.network"
     },
     {
       "id": "signum-ru",
