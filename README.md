@@ -64,7 +64,7 @@ You will need to create a PR in order to add your pool.
 
 ## Third-party Apps
 
-If you want to add a `App` which uses heavily the Signum Blockchain, you have the posibility to show it off to the community by listing it on third party apps list. `(on the next section you will learn how to do it)`.
+If you want to add an `App` which uses heavily the Signum Blockchain, you have the posibility to show it off to the community by listing it on third party apps list. `(on the next section you will learn how to do it)`.
 
 ### Important Tips
 
