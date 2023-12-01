@@ -1,0 +1,36 @@
+{
+  "mainnet": [
+    {
+      "title": "SignumArt",
+      "description": "A NFT portal on the Signum blockchain",
+      "img": "https://signumart.io/assets/img/seo.jpg",
+      "url": "https://signumart.io/"
+    },
+    {
+      "title": "Signum Subscriptions",
+      "description": "Manage your crypto Auto Payments",
+      "img": "https://fomplo.com/assets/home/subscription-banner.webp",
+      "url": "https://fomplo.com/signum-subscriptions"
+    },
+    {
+      "title": "SignaRank",
+      "description": "Decentralized achievement system",
+      "img": "https://signarank.club/card.jpg",
+      "url": "https://signarank.club"
+    },
+    {
+      "title": "Signum Commitment Station",
+      "description": "Manage your mining commitment",
+      "img": "https://fomplo.com/assets/home/commitment.webp",
+      "url": "https://fomplo.com/signum-commitment-station"
+    }
+  ],
+  "testnet": [
+    {
+      "title": "SignumArt",
+      "description": "A NFT portal on the Signum blockchain",
+      "img": "https://test.signumart.io/assets/img/seo.jpg",
+      "url": "https://test.signumart.io/"
+    }
+  ]
+}
