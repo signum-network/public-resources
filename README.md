@@ -79,7 +79,7 @@ You must request listing by creating a pull request on this repository
 You will need to create a PR in order to add the third party app. 
 
 - Go to `third-party-apps.json` file
-- Copy the following template and change it according to your pool data
+- Copy the following template and change it according to your website data
 
 
 **Template**
