@@ -1,6 +1,12 @@
 {
   "mainnet": [
     {
+      "id": "signum-mainnet-local",
+      "name": "Local Mainnet",
+      "description": "For those who run a local main net node on standard port 8125",
+      "url": "http://localhost:8125"
+    },
+    {
       "id": "signum-europe",
       "name": "Europe",
       "description": "Featured Node from Europe",
@@ -71,26 +77,20 @@
       "name": "Asia SG",
       "description": "Featured Node from Singapore",
       "url": "https://singapore.signum.network"
-    },
-    {
-      "id": "signum-mainnet-local",
-      "name": "Local Mainnet",
-      "description": "For those who run a local main net node on standard port 8125",
-      "url": "http://localhost:8125"
     }
   ],
   "testnet": [
-    {
-      "id": "signum-testnet-europe",
-      "name": "Europe Testnet",
-      "description": "Public Testnet Node Europe",
-      "url": "https://europe3.testnet.signum.network"
-    },
     {
       "id": "signum-testnet-local",
       "name": "Local Testnet",
       "description": "For those hackers who run a local test net node on standard port 6876",
       "url": "http://localhost:6876"
+    },
+    {
+      "id": "signum-testnet-europe",
+      "name": "Europe Testnet",
+      "description": "Public Testnet Node Europe",
+      "url": "https://europe3.testnet.signum.network"
     }
   ]
 }
