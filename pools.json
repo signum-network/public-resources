@@ -16,16 +16,6 @@
       "url": "http://pool.btfg.space"
     },
     {
-      "id": "vlp-pool",
-      "name": "VLP Pool",
-      "url": "http://signa.voiplanparty.com:8124"
-    },
-    {
-      "id": "tross-signa-pool",
-      "name": "Tross Signa Pool",
-      "url": "http://signumpool.de:8080"
-    },
-    {
       "id": "e4p1k0-signum-pool",
       "name": "E4P1K0 Signum Pool",
       "url": "http://burst.e4pool.com"
