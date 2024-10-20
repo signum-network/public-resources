@@ -55,12 +55,6 @@
       "url": "https://us-central.signum.network"
     },
     {
-      "id": "signum-latam",
-      "name": "Latin America US",
-      "description": "Featured Node from Latin America",
-      "url": "https://latam.signum.network"
-    },
-    {
       "id": "signum-brazil",
       "name": "Latin America BR",
       "description": "Featured Node from South America",
