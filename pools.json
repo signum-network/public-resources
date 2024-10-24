@@ -1,6 +1,11 @@
 {
   "mainnet": [
     {
+      "id": "nam-signa-pool",
+      "name": "nam Signa Pool",
+      "url": "https://signapool.notallmine.net"
+    },
+    {
       "id": "pool-signumcoin-ro",
       "name": "Pool Signumcoin.ro",
       "url": "https://pool.signumcoin.ro"
