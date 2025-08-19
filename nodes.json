@@ -43,12 +43,6 @@
       "url": "https://us-east.signum.network"
     },
     {
-      "id": "signum-canada",
-      "name": "Canada",
-      "description": "Featured Node from Canada",
-      "url": "https://canada.signum.network"
-    },
-    {
       "id": "signum-us-central",
       "name": "US Central",
       "description": "Featured Node from the US",
