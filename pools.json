@@ -1,51 +1,68 @@
 {
+  "schema": "signa-pool-registry",
+  "version": 1,
   "mainnet": [
     {
       "id": "nam-signa-pool",
       "name": "nam Signa Pool",
-      "url": "https://signapool.notallmine.net"
+      "url": "https://signapool.notallmine.net",
+      "enabled": true
     },
     {
       "id": "pool-signumcoin-ro",
       "name": "Pool Signumcoin.ro",
-      "url": "https://pool.signumcoin.ro"
+      "url": "https://pool.signumcoin.ro",
+      "enabled": true
     },
     {
       "id": "btfgpool",
       "name": "BTFGPOOL",
-      "url": "http://pool.btfg.space"
+      "url": "http://pool.btfg.space",
+      "enabled": true
     },
     {
       "id": "e4p1k0-signum-pool",
       "name": "E4P1K0 Signum Pool",
-      "url": "http://burst.e4pool.com"
+      "url": "http://burst.e4pool.com",
+      "enabled": false
     },
     {
       "id": "open-signum-pool",
       "name": "OpenSignumPool",
-      "url": "http://opensignumpool.ddns.net:8126"
+      "url": "https://opensignumpool.ddns.net:8129",
+      "enabled": true
     },
     {
       "id": "rave-fusions",
       "name": "Rave Fusions",
-      "url": "https://pool.ravefusions.com"
+      "url": "https://pool.ravefusions.com",
+      "enabled": false
     },
     {
       "id": "bowserpool",
       "name": "Bowserlab-Signum Pool",
-      "url": "https://bowserlab.ddns.net:8095"
+      "url": "https://bowserlab.ddns.net:8095",
+      "enabled": false
+    },
+    {
+      "id": "varga-tech-signum",
+      "name": "Varga-Tech SIGNUM",
+      "url": "https://signamining.vargatech.net",
+      "enabled": true
     }
   ],
   "testnet": [
     {
       "id": "testnet-nam-signa-pool",
       "name": "Nam Signa Testnet Pool",
-      "url": "https://t-pool.notallmine.net"
+      "url": "https://t-pool.notallmine.net",
+      "enabled": true
     },
     {
       "id": "testnet-local-signa-pool",
       "name": "Local Testnet Pool",
-      "url": "http://localhost:8000"
+      "url": "http://localhost:8000",
+      "enabled": true
     }
   ]
 }
