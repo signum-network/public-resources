@@ -13,18 +13,6 @@
       "url": "https://europe.signum.network"
     },
     {
-      "id": "signum-europe-1",
-      "name": "Europe 1",
-      "description": "Another Featured Node from Europe",
-      "url": "https://europe1.signum.network"
-    },
-    {
-      "id": "signum-europe-2",
-      "name": "Europe 2",
-      "description": "Another Featured Node from Europe",
-      "url": "https://europe2.signum.network"
-    },
-    {
       "id": "signum-europe-3",
       "name": "Europe 3",
       "description": "Another Featured Node from Europe",
@@ -65,12 +53,6 @@
       "name": "Australia",
       "description": "Featured Node from Australia",
       "url": "https://australia.signum.network"
-    },
-    {
-      "id": "signum-singapore",
-      "name": "Asia SG",
-      "description": "Featured Node from Singapore",
-      "url": "https://singapore.signum.network"
     }
   ],
   "testnet": [
